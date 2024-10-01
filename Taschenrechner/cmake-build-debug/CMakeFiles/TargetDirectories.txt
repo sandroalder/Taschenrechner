@@ -1,0 +1,3 @@
+C:/Users/sa061401/CLionProjects/Taschenrechner/cmake-build-debug/CMakeFiles/Taschenrechner.dir
+C:/Users/sa061401/CLionProjects/Taschenrechner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sa061401/CLionProjects/Taschenrechner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
